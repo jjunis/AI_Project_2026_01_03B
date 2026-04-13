@@ -35,3 +35,35 @@
 ![image](https://github.com/jjunis/AI_Project_2026_01_03B/blob/main/CONTROLNET/Tile/tmp_m8m5_cp.png?raw=true)
 
 ![image](https://github.com/jjunis/AI_Project_2026_01_03B/blob/main/CONTROLNET/Tile/00018-4188175199.png?raw=true)
+
+## LineArt
+
+![image](https://raw.githubusercontent.com/jjunis/AI_Project_2026_01_03B/fdca08976d575e086845f90693f9c435d38128a0/CONTROLNET/LineArt/tmpvfh662jp.png)
+
+![image](https://raw.githubusercontent.com/jjunis/AI_Project_2026_01_03B/fdca08976d575e086845f90693f9c435d38128a0/CONTROLNET/LineArt/00015-2821849391.png)
+
+## NormalMap
+
+![image](https://raw.githubusercontent.com/jjunis/AI_Project_2026_01_03B/fdca08976d575e086845f90693f9c435d38128a0/CONTROLNET/NormalMap/tmpa5d4o0mj.png)
+
+![image](https://raw.githubusercontent.com/jjunis/AI_Project_2026_01_03B/fdca08976d575e086845f90693f9c435d38128a0/CONTROLNET/NormalMap/00051-214836754.png)
+
+![image](https://raw.githubusercontent.com/jjunis/AI_Project_2026_01_03B/fdca08976d575e086845f90693f9c435d38128a0/CONTROLNET/NormalMap/Screenshot_1.png)
+
+## Scribble
+
+![image](https://raw.githubusercontent.com/jjunis/AI_Project_2026_01_03B/fdca08976d575e086845f90693f9c435d38128a0/CONTROLNET/Scribble/tmp2vfoxobd.png)
+
+![image](https://raw.githubusercontent.com/jjunis/AI_Project_2026_01_03B/fdca08976d575e086845f90693f9c435d38128a0/CONTROLNET/Scribble/00034-4132356452.png)
+
+## Shuffle
+
+![image](https://raw.githubusercontent.com/jjunis/AI_Project_2026_01_03B/fdca08976d575e086845f90693f9c435d38128a0/CONTROLNET/Shuffle/tmppompgy3x.png)
+
+![image](https://raw.githubusercontent.com/jjunis/AI_Project_2026_01_03B/fdca08976d575e086845f90693f9c435d38128a0/CONTROLNET/Shuffle/00038-3276704334.png)
+
+## SoftEdge
+
+![image](https://raw.githubusercontent.com/jjunis/AI_Project_2026_01_03B/fdca08976d575e086845f90693f9c435d38128a0/CONTROLNET/SoftEdge/tmp1gz92mlz.png)
+
+![image](https://raw.githubusercontent.com/jjunis/AI_Project_2026_01_03B/fdca08976d575e086845f90693f9c435d38128a0/CONTROLNET/SoftEdge/00011-1427069387.png)
